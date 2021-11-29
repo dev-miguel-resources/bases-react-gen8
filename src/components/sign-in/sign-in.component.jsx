@@ -27,6 +27,8 @@ class SignIn extends React.Component {
     const { value, name } = event.target; // name, value
 
     this.setState({ [name]: value });
+
+    console.log(this.state);
   };
 
   // design pattern: controlled input
@@ -46,7 +48,7 @@ class SignIn extends React.Component {
             required
           />
           <FormInput
-            name="password"
+            name="password" props
             type="password"
             handleChange={this.handleChange}
             value={this.state.password}
@@ -54,9 +56,9 @@ class SignIn extends React.Component {
             required
           />
           <div className="buttons">
-            <CustomButton type="submit">Sign In</CustomButton>
+            <CustomButton type="submit">Sign in</CustomButton>
             <CustomButton onClick={signInWithGoogle} isGoogleSignIn>
-              Sign in with Google
+              Sign in with google
             </CustomButton>
           </div>
         </form>
