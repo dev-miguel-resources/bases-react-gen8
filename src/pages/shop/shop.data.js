@@ -7,7 +7,7 @@ const SHOP_DATA = [
       {
         id: 1,
         name: "Brown Brim",
-        imageUrl: "https://i.ibb.co/ZYW3VTp/brown-brim.png",
+        imageUrl: "https://i.ibb.co/ypkgK0X/blue-beanie.png",
         price: 25,
       },
       {
@@ -74,19 +74,19 @@ const SHOP_DATA = [
       {
         id: 11,
         name: "Adidas Yeezy",
-        imageUrl: "https://i.ibb.co/dJbG1cT/yeezy.png",
+        imageUrl: "https://i.ibb.co/0s3pdnc/adidas-nmd.png",
         price: 280,
       },
       {
         id: 12,
         name: "Black Converse",
-        imageUrl: "https://i.ibb.co/bPmVXyP/black-converse.png",
+        imageUrl: "https://i.ibb.co/0s3pdnc/adidas-nmd.png",
         price: 110,
       },
       {
         id: 13,
         name: "Nike White AirForce",
-        imageUrl: "https://i.ibb.co/1RcFPk0/white-nike-high-tops.png",
+        imageUrl: "https://i.ibb.co/0s3pdnc/adidas-nmd.png",
         price: 160,
       },
       {
@@ -123,25 +123,25 @@ const SHOP_DATA = [
       {
         id: 18,
         name: "Black Jean Shearling",
-        imageUrl: "https://i.ibb.co/XzcwL5s/black-shearling.png",
+        imageUrl: "https://i.ibb.co/YTjW3vF/green-beanie.png",
         price: 125,
       },
       {
         id: 19,
         name: "Blue Jean Jacket",
-        imageUrl: "https://i.ibb.co/mJS6vz0/blue-jean-jacket.png",
+        imageUrl: "https://i.ibb.co/YTjW3vF/green-beanie.png",
         price: 90,
       },
       {
         id: 20,
         name: "Grey Jean Jacket",
-        imageUrl: "https://i.ibb.co/N71k1ML/grey-jean-jacket.png",
+        imageUrl: "https://i.ibb.co/YTjW3vF/green-beanie.png",
         price: 90,
       },
       {
         id: 21,
         name: "Brown Shearling",
-        imageUrl: "https://i.ibb.co/s96FpdP/brown-shearling.png",
+        imageUrl: "https://i.ibb.co/YTjW3vF/green-beanie.png",
         price: 165,
       },
       {
@@ -227,7 +227,7 @@ const SHOP_DATA = [
       {
         id: 33,
         name: "Pink T-shirt",
-        imageUrl: "https://i.ibb.co/RvwnBL8/pink-shirt.png",
+        imageUrl: "https://i.ibb.co/RjBLWxB/grey-brim.png",
         price: 25,
       },
       {
